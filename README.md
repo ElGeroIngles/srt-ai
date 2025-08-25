@@ -60,6 +60,8 @@ This will read the environment variables from the .env.local file and start the 
 
 #### Prerequisites
 
+=======
+- A Gemini AI Key (grab it [here](https://aistudio.google.com/), if you don't have one already)
 - Node.js and npm installed on your machine
 
 #### Installation
